@@ -1,0 +1,2 @@
+# cos-de-gunoi
+programare
